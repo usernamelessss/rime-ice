@@ -6,9 +6,6 @@ customization:
   rime_version: 1.13.1
 # 打补丁
 patch:
-  # 菜单
-  menu:
-    page_size: 6  # 候选词个数
   # 指定特定程序使用英文标点符号（⚠️ 应用程序名称一律使用小写字母）
   app_options/pycharm64.exe: # PyCharm.
     ascii_punct: true

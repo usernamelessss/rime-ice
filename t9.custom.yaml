@@ -1,0 +1,11 @@
+# t9.schema.yaml 的补丁
+patch:
+  # 自定义短语：custom_phrase_t9.txt
+  # ⚠️ 编码要用数字
+  custom_phrase:
+    dictionary: ""
+    user_dict: renjy_phrase_t9
+    db_class: stabledb
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 99

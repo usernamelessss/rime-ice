@@ -66,13 +66,13 @@ calculator:
 # 处理符合特定规则的输入码，如网址、反查
 recognizer:
   import_preset: default                # 从 default.yaml 继承通用的
-  patterns:                             # 再增加方案专有的：
+  patterns: # 再增加方案专有的：
     calculator: "^=.+"                 # 响应 lua_translator@*calc_translator，计算器。前缀设定项 calculator/prefix
 
 translator:
   prism: t9
   spelling_hints: 100
-  comment_format: []
+  comment_format: [ ]
   # dictionary_exclude: [肏屄, 鸡巴]  # 如有屏蔽 NSFW 词汇需求 librime >= 1.14.0 等价于从 .dict.yaml 中删除对应词条，但不影响组句和用户词库。
 
 # 自定义短语：custom_phrase_t9.txt
@@ -88,9 +88,9 @@ custom_phrase:
 # 九宫格 1 键上的符号序列
 punctuator:
   half_shape:
-    "1": [1, "@", ".", "/", ":", "_", "-", "#"]
-    "@": [1, "@", ！, ：, 、, ……, ～]
-    "#": [0, "#", "$", "%", "^", "&", "*", "(", ")"]
+    "1": [ 1, "@", ".", "/", ":", "_", "-", "#" ]
+    "@": [ 1, "@", ！, ：, 、, ……, ～ ]
+    "#": [ 0, "#", "$", "%", "^", "&", "*", "(", ")" ]
 
 # 输入时按 1 可以分词
 key_binder:
