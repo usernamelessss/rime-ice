@@ -1,0 +1,154 @@
+# 自定义词典
+# encoding: utf-8
+# 字条格式：词汇<tab>ci<空格>hui<tab>权重
+# 权重数字越大，表示优先级越高，排名越靠前。
+# 模板
+---
+name: renjy
+version: "2024-04-15"
+sort: by_weight
+...
+
+舞Par	wu pa	1
+浅梦墨雪	qian meng mo xue	2
+氖钢蓝	nai gang lan	1
+📅 ﹝ 2024年04月25日 ﹞	ri li	1
+致远	zhi yuan	1
+夏栀梨渦	xia zhi li wo	1
+王昊	wang hao	1
+紫塵熏	zi chen xun	1
+全译	quan yi	1	
+简日	jian ri	1
+繁日	fan ri	1
+林静姝	lin jing shu	1
+鷹揚筱婭	ying yang xiao ya	1
+多看版	duo kan ban	1
+欧丽娟	ou li juan	1
+阡陌居	qian mo ju	1
+精排	jing pai	1
+只与	zhi yu	1
+握剑	wo jian	1
+是客	shi ke	1
+较于	jiao yu	1
+霞鹜	lu xia	1
+文楷	wen kai	1
+余着	yu zhe	1
+补道	bu dao	1
+竹杖	zhu zhang	1
+底款	di kuan	1
+黄庭	huang ting	1
+搬山	ban shan	1
+替一个	ti yi ge	1
+护道	hu dao	1
+吕览	lv lan	1
+白碗	bai wan	1
+背剑	bei jian	1
+雪舞耀陽	xue wu yao yang	1
+金阙	jin que	1
+金阕	jin que	1
+巷弄	xiang nong	1
+丹书	dan shu	1
+磨剑	mo jian	1
+水涧	shui jian	1
+涧边	jian bian	1
+校书	jiao shu	1
+坊市	fang shi	1
+揭过	jie guo	1
+偷影	tou ying	1
+偷影子	tou ying zi	1
+阴人	yin ren	1
+梁铭琛	liang ming chen	1
+霞鹜	xia wu	1
+爱思	ai si	1
+克莱・汤普森	ke lai tang pu shen	1
+科比·布莱恩特	ke bi bu lai en te	1
+史蒂芬·库里	shi di fen ku li	1
+王贰浪	wang er lang	1
+舒美玉	shu mei yu	1
+白晓艳	bai xiao yan	1
+张丽	zhang li	1
+高红梅	gao hong mei	1
+李雯	li wen	1
+曹露	cao lu	1
+曹梦	cao meng	1
+马小青	ma xiao qing	1
+塞壬	sai ren	1
+宋思薇	song si wei	1
+仙黛尔	xian dai er	1
+打懵了	da meng le	1
+阿耐	a nai	1
+护蛋器	hu dan qi	1
+着急把火	zhao ji ba huo	1
+人品物	ren pin wu	1
+这圈儿	zhe quan	2
+这圈	zhe quan	1
+珂珂	ke ke	1
+珂	ke	9
+萧晨	xiao chen	1
+已老	yi lao	1
+零宽	ling kuan	1
+宁宥	ning you	1
+宁恕	ning shu	1
+简宏图	jian hong tu	1
+唏哩哗啦 xi li hua la	1
+/s  sou suo	1
+凯哥	kai ge	1
+桃花堆里埋身剑	tao hua dui li mai shen jian	1
+萧鼓声中老客星	xiao gu sheng zhong lao ke xing	1
+敛去	lian qu	1
+呲牙咧嘴	ci ya lie zui	1
+片头尾	pian tou wei	1
+阿郎	a lang	1
+阿娅	a ya	1
+彡	san	110
+保护石	bao hu shi	1
+诱·惑	you huo	1
+谢弼	xie bi	1
+黑皇	hei huang	1
+险而又险	xian er you xian	1
+谭晶	tan jing	1
+阵纹	zhen wen	1
+蔷薇粉	qiang wei fen	1
+鐵馬冰河	tie ma bing he	1
+上炕	shang kang	1
+段德	duan de	1
+半件	ban jian	1
+极道	ji dao	1
+帝兵	di bing	1
+雪月劍仙	xue yue jian xian	1
+綠茶青梅	lv cha qing mei	1
+曼基康	man ji kang	1
+悬放	xuan fang	1
+知轩	zhi xuan	1
+灬荒灬	huang	1
+古帝	gu di	1
+寸寸	cun cun	1
+软校	ruan jiao	1
+读校	du jiao	1
+涂司	tu si	1
+毒功	du gong	1
+毒攻	du gong	2
+singbox	singbox	1
+sing-box	singbox	1
+武逆	wu ni	1
+剑域	jian yu	1
+七猫	qi mao	1
+般地	ban de	1
+纳戒	na jie	1
+汉仪	han yi	1
+臻楷	zhen kai	1
+司幼幽	si you you	1
+武映	wu ying	1
+折翼丶樯麓	zhe yi dian qiang lu	1
+鉄血丹心	tie xue dan xin	1
+mihomo	mihomo	1
+mihomo	Mihomo	2
+秦吏	qin li	1
+loon	loon	1
+Loon	loon	2
+kagi	kagi	1
+Kagi	kagi	2
+ai	ai	1
+AI	ai	2
+ai	zhineng	1
+AI	zhineng	2
